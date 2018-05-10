@@ -7,8 +7,13 @@ on convention mode reducing the need to write a lot of configuration and boilerp
 1. Basic health-check and monitoring functions using spring HealthIndicator 
 2. Logger configuration examples (sl4j)
 3. 
-- ```xml
-<myxml>
-   <someElement />  
-</myxml>
+```xml
+<dependency>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-actuator</artifactId>
+</dependency>
+<dependency>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-remote-shell</artifactId>
+</dependency>
 ```
