@@ -29,4 +29,5 @@ on convention mode reducing the need to write a lot of configuration and boilerp
 </pluginRepository>
 ```
 
-4. Dockerised containers for deployments 
+4. Dockerised container appraoch to deployments 
+5. Adjusting the number of concurrent threads in application.properties i.e server.tomcat.max-threads=400
