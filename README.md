@@ -1,6 +1,6 @@
 # wallet-microservice
 
-Wallet MicroService is a Spring Boot project based of the Spring Framework and it provides the extension configuration 
+Wallet MicroService is a Spring Boot project. its basically a service that manages player accounts and registers transactions for game players . Spring Framework is employed for this mini project as it provides the extension configuration 
 on convention mode reducing the need to write a lot of configuration and boilerplate code.
 
 # production ready dependencies
